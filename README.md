@@ -4,3 +4,4 @@ FULLSTACK - SHKOLLA DIGJITALE
 2. Linku, fotografitë në HTML
 3. Tables në HTML
 4. Lists në HTML
+5. Format në HTML
