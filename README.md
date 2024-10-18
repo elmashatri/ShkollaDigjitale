@@ -7,3 +7,4 @@ FULLSTACK - SHKOLLA DIGJITALE
 5. Format në HTML
 6. Semantic elements në HTML
 7. Videot në HTML - Inline dhe block elementet
+8. Hyrje në CSS
