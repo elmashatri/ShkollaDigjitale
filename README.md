@@ -9,3 +9,4 @@ FULLSTACK - SHKOLLA DIGJITALE
 7. Videot në HTML - Inline dhe block elementet
 8. Hyrje në CSS
 9. CSS - Text, Fonts, Icons, Links
+10. CSS - Lists, Tables, Overflow
