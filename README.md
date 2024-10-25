@@ -12,4 +12,6 @@ FULLSTACK - SHKOLLA DIGJITALE
 10. CSS - Lists, Tables, Overflow
 11. CSS - Combinators, Pseudo-Classes, Pseudo-Elements, Opacity
 12. CSS - Images Gally, Images Sprites, Attribute Selectors
-13. CSS - Dropdowns, Tooltips, Counters, Variables, Rounded Corners,
+13. CSS - Dropdowns, Tooltips, Counters, Variables, Rounded Corners, Border Images,  Backgrounds, Shadows
+
+
