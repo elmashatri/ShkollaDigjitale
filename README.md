@@ -11,3 +11,4 @@ FULLSTACK - SHKOLLA DIGJITALE
 9. CSS - Text, Fonts, Icons, Links
 10. CSS - Lists, Tables, Overflow
 11. CSS - Combinators, Pseudo-Classes, Pseudo-Elements, Opacity
+12. CSS - Images Gally, Images Sprites, Attribute Selectors
