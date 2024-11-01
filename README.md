@@ -16,5 +16,5 @@ FULLSTACK - SHKOLLA DIGJITALE
 14. CSS - 2D Transforms and 3D Transforms, Transitions, Animations
 15. CSS - Flexbox
 16. CSS - Website Layout
-
+17. JS - Functions, Objects
 
